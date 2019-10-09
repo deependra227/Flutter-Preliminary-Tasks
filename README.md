@@ -1,12 +1,12 @@
 ## Flutter Preliminary Tasks
 
 ### Instructions
-- [ ] Fork this repo.
-- [ ] Install Flutter on your laptop.
-- [ ] Create and run a new app (either using an emulator, or in your own device).
-- [ ] Upload the contents of the app on your forked Github repository.
-- [ ] Create a new issue on the [original repo](https://github.com/gsunit/Flutter-Preliminary-Tasks/issues). Copy the contents of this README and paste it inside the issue so that you can tick the tasks that you have completed.
-- [ ] Start working on the app.
+- [x] Fork this repo.
+- [x] Install Flutter on your laptop.
+- [x] Create and run a new app (either using an emulator, or in your own device).
+- [x] Upload the contents of the app on your forked Github repository.
+- [x] Create a new issue on the [original repo](https://github.com/gsunit/Flutter-Preliminary-Tasks/issues). Copy the contents of this README and paste it inside the issue so that you can tick the tasks that you have completed.
+- [x] Start working on the app.
 
 ### Useful suggestions
 - You might want to learn the basics of `git` first if you don't know it already.
@@ -16,10 +16,10 @@
 - You can contact me, Sunit Gautam, or Anish Saxena if you face any problems.
 
 ### Task description
-- [ ] Link a new Firebase Project with your Flutter app.
-- [ ] Setup Google Sign-In in your app.
-- [ ] Feed data into `Firestore` and display in app using `StreamBuilder` widget.
-- [ ]  Store user's `Name`, `Profile Pic`, `Email ID` in a `users` document in `Firestore`& create a basic profile page displaying the stored info.
+- [x] Link a new Firebase Project with your Flutter app.
+- [x] Setup Google Sign-In in your app.
+- [x] Feed data into `Firestore` and display in app using `StreamBuilder` widget.
+- [x]  Store user's `Name`, `Profile Pic`, `Email ID` in a `users` document in `Firestore`& create a basic profile page displaying the stored info.
 
 
 ### Reading Material
